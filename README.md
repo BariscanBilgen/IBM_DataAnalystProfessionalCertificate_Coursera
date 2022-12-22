@@ -4,12 +4,13 @@ This repository contains all the resources and solution to quizzes given and ask
 
 ![image](https://user-images.githubusercontent.com/91004987/208675308-b367f2bb-3b2f-4d1f-87d0-0bb546684346.png)
 
-
 #### [Course 1: Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
 
 #### [Course 2: Excel for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/91004987/208676057-40d2d3d2-410c-45ac-8ab2-7ff6f20f2b93.JPG" width="450">
+  <img src="https://user-images.githubusercontent.com/91004987/208676057-40d2d3d2-410c-45ac-8ab2-7ff6f20f2b93.JPG" width="450"> 
+
+  <img src="https://user-images.githubusercontent.com/91004987/209202485-ad9308f5-cffa-42bf-b199-2fca19d50bf8.png" width="300"> 
 </p>
 
 #### [COurse 3: Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
