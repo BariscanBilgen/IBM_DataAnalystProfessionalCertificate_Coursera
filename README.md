@@ -5,6 +5,12 @@ This repository contains all the resources and solution to quizzes given and ask
 ![image](https://user-images.githubusercontent.com/91004987/208675308-b367f2bb-3b2f-4d1f-87d0-0bb546684346.png)
 
 #### [Course 1: Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/91004987/210832466-50d295e7-1087-4bad-a4d4-197a26d5f497.JPG" width="450"> 
+
+  <img src="https://user-images.githubusercontent.com/91004987/210832571-c1b3e45d-74f8-4287-9246-15403d017a64.png" width="300"> 
+</p>
+
 
 #### [Course 2: Excel for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
 <p align="left">
