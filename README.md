@@ -31,6 +31,11 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 </p>
 
 - [x] [__Course 3: Data Visualization and Dashboards with Excel and Cognos__](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91004987/212050467-25dd436f-c3f7-4b8a-8e8e-bce5ee905dd5.JPG" width="450"> 
+
+  <img src="https://user-images.githubusercontent.com/91004987/212049974-fbf99b0f-a61a-49c6-b95c-2d7cc7d00ec2.png" width="300"> 
+</p>
 
 - [x] [__Course 4: Python for Data Science, AI & Development__](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-analyst)
 
