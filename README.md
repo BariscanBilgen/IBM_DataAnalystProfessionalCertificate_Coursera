@@ -16,35 +16,40 @@ Gain the job-ready skills for an entry-level data analyst role through this nine
 ## 📙 Course Structures
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Course 1: Introduction to Data Analytics__](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
+💹 [__Course 1: Introduction to Data Analytics__](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst)
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/91004987/210832466-50d295e7-1087-4bad-a4d4-197a26d5f497.JPG" width="450"> 
 
   <img src="https://user-images.githubusercontent.com/91004987/210832571-c1b3e45d-74f8-4287-9246-15403d017a64.png" width="300"> 
 
-- [x] [__Course 2: Excel for Data Analysis__](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
+💹 [__Course 2: Excel for Data Analysis__](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91004987/208676057-40d2d3d2-410c-45ac-8ab2-7ff6f20f2b93.JPG" width="450"> 
 
   <img src="https://user-images.githubusercontent.com/91004987/209202485-ad9308f5-cffa-42bf-b199-2fca19d50bf8.png" width="300"> 
 </p>
 
-- [x] [__Course 3: Data Visualization and Dashboards with Excel and Cognos__](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
+💹 [__Course 3: Data Visualization and Dashboards with Excel and Cognos__](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=ibm-data-analyst)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91004987/212050467-25dd436f-c3f7-4b8a-8e8e-bce5ee905dd5.JPG" width="450"> 
 
   <img src="https://user-images.githubusercontent.com/91004987/212049974-fbf99b0f-a61a-49c6-b95c-2d7cc7d00ec2.png" width="300"> 
 </p>
 
-- [x] [__Course 4: Python for Data Science, AI & Development__](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-analyst)
+💹 [__Course 4: Python for Data Science, AI & Development__](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-analyst)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91004987/221427291-dd80b396-8039-401e-b38c-4fd141b6aa12.png" width="450"> 
 
-- [x] [__Course 5: Python Project for Data Science__](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-analyst)
+  <img src="https://user-images.githubusercontent.com/91004987/221427362-ac8a0ef9-9b40-4195-85c5-c6b52d55470f.png" width="300"> 
+</p>
 
-- [x] [__Course 6: Databases and SQL for Data Science with Python__](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)
+💹 [__Course 5: Python Project for Data Science__](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-analyst)
 
-- [x] [__Course 7: Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst)
+💹 [__Course 6: Databases and SQL for Data Science with Python__](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst)
 
-- [x] [__Course 8: Data Visualization with Python__](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst)
+💹 [__Course 7: Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-analyst)
 
-- [x] [__Course 9: IBM Data Analyst Capstone Project__](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
+💹 [__Course 8: Data Visualization with Python__](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-analyst)
+
+💹 [__Course 9: IBM Data Analyst Capstone Project__](https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst)
